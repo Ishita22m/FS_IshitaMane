@@ -42,4 +42,10 @@ Chat: Socket.IO (real-time chat).
 4.Eco-Impact Tracker – Shows CO₂ emissions saved through carpooling, motivating sustainable commuting. 
 
 6. Diagram Workflow:
+    🏗 Architecture
+![Architecture Diagram](student_commute_optimizer_architecture.png)
+
+ 🔄 Flow
+![Flow Diagram](student_commute_optimizer_flow.png)
+
    
